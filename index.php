@@ -12,6 +12,8 @@
  *
  *  0. You just DO WHAT THE FUCK YOU WANT TO.
  *
+ *  Process improvement by Jerry Wham
+ *  Last update December, 26th, 2012
  */
 
 #TODO
