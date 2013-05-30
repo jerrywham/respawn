@@ -1,0 +1,78 @@
+body {
+  background:#fff;
+	width: 100%;
+	margin:0;padding:0;
+	font: 12px normal sans-serif;
+}
+
+#orpx_nav-bar {
+	width: 100%;
+	padding: 15px 0;
+	margin: 0;
+	text-align: center;
+	border-bottom: 1px solid gray;
+	background-color: silver;
+	font-size: 12px;
+}
+
+a:hover  {
+	color: gray;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+form p {
+	text-align: center;
+	width:500px;
+	margin:auto;
+}
+form p label {
+	display: inline-block;
+	width:100px;
+	text-align: right;
+	padding:10px 20px 10px 0;
+}
+form p input[type=text], form p input[type=password] {
+	width: 150px;
+}
+
+form p input#____q {
+	margin-left:70px;
+	width:300px;
+}
+
+#wait {
+	display: none;
+	text-align:center;
+	font-size: 5em;
+	border:1px solid #A1A1A1;
+}
+
+#ariane {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+#manager, #browser {
+	display: inline-block;
+	float: right;
+}
+#manager {
+	margin-top:-60px;
+}
+
+#moveIn1, #moveIn2 {
+	display: none;
+}
+#panel, #panel form p{
+	text-align: left;
+	margin-left:20px;
+	padding:10px;
+}
+
+#liste-pages-sauvees li {
+	list-style: none;
+}
